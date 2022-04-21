@@ -1,5 +1,5 @@
 # database-design-with-UML
-C'est mon 4ème projet pour ma formation de développeur php. Dans ce projet, j'ai appliqué le concept UML pour concevoir une base de données et apprendre le langage SQL pour l'utilisation des données.
+This is my 4th project for my php developer training. In this project, I applied the UML concept to design a database and learnt the SQL language.
 <h3>Skills</h3>
   <ul>
     <li>Produce coherent UML diagrams in accordance with the stated requirements</li>
